@@ -17,6 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/public/train-v2.0.json
-/public/data/*
-/public/admin_files/assets/js/*
